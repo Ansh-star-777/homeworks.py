@@ -1,0 +1,5 @@
+user_input = int(input("Enter a number"))
+if user_input == 2 or user_input == 3:
+    print("correct")
+else:
+    print("incorrect")
